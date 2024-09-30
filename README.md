@@ -8,7 +8,7 @@ I am a recent graduate in Computer Science from Karel de Grote in Belgium. I spe
 - 💞️ I’m looking to collaborate on projects that involve artificial intelligence like LLMs.
 - 📫 You can reach me on my LinkedIn or email listed down below.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to read about true crime mysteries.
+- ⚡ Fun fact: I'm interested in fashion and Djing. 
 
 ## Skills and tools
 ### Languages
