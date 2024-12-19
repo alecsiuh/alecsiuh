@@ -9,7 +9,7 @@ I am a recent graduate in Computer Science from Karel de Grote in Belgium. I spe
 - 📫 You can reach me on my LinkedIn or email listed down below.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm interested in fashion and DJing.
-- 🖋️ Articles: Check out my Medium articles https://medium.com/@alexia.csmr
+- 🖋️ Check out my Medium articles https://medium.com/@alexia.csmr
 
 ## Skills and tools
 ### Languages
